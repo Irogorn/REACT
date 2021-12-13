@@ -1,0 +1,23 @@
+.navBar{
+    background-color: royalblue;
+    padding: 15px;
+}
+
+.nav{
+    color: whitesmoke;
+    text-decoration: none;
+    margin: 0 25px;
+    font-weight: bold;
+}
+
+.nav:hover{
+    color: red;
+}
+
+.image{
+    height: 35px;
+    position: absolute;
+    left: 0;
+    margin-left: 10px;
+    top: 10px
+}
